@@ -1,0 +1,43 @@
+Modo Claro:
+
+
+### 1. Colores Dominantes (Estructura y Fondos)
+
+* **Rojo Carmesí Oscuro (`#800C0C`)**: Utilizado para la barra lateral izquierda (sustituyendo al verde oscuro original), el botón de "Cerrar sesión" y los pequeños íconos cuadrados dentro de las tarjetas inferiores de datos.
+* **Crema Muy Claro / Hueso (`#FDFBF7`)**: El color del fondo general de la aplicación, que reemplaza al tono verdoso pálido original para dar una sensación cálida, limpia y natural.
+* **Blanco Puro (`#FFFFFF`)**: Usado para los textos en la barra lateral, el texto dentro del botón de "Panel" activo y el fondo de las cuatro tarjetas de datos.
+
+### 2. Colores de Énfasis (Interacciones y Destacados)
+
+* **Amarillo Dorado Cálido (`#F5B300` / `#FFC72C`)**: Aplicado en el botón seleccionado "Panel", el avatar circular "A", el ícono del engranaje "Panel en construcción", el botón de "Bs" y el gran logo de la "P" en el banner.
+* **Degradado "Atardecer Ranchero" (Rojo a Naranja-Dorado / `#96040C` a `#D96200`)**: Usado en el banner central ("Todo listo para atender") en lugar del degradado verde anterior, aportando la energía y calidez características de la marca.
+
+### 3. Colores de Texto, Detalles y Sombras
+
+* **Marrón Muy Oscuro / Café (`#1A0000` / `#2B1414`)**: Reemplaza al gris y verde oscuro para los textos principales del cuerpo de la pantalla como "Hola, Administrador.", "RESUMEN DEL DÍA", "Panel administrativo" y las cifras grandes de las tarjetas.
+* **Marrón Suave / Tierra (`#6E5A5A`)**: Utilizado para los textos secundarios con menor jerarquía visual (como "Este es el estado actual...", "Disponibles en el sistema", etc.) para no sobrecargar de negro o rojo el diseño.
+* **Gris / Borde muy suave (`#EFE9E2`)**: Utilizado para dar sutiles separaciones y bordes en los botones o tarjetas que no necesitan un contraste fuerte.
+
+=====================
+Modo Oscuro:
+1. Colores de Fondo y Estructura (Predominantes)
+Marrón Chocolate Muy Oscuro (#160803): El color base de toda la aplicación, que reemplaza al verde y blanco originales para dar el look "nocturno".
+
+Café Oscuro / Tierra (#1F0B05): Utilizado para la barra lateral izquierda, separándola sutilmente del fondo principal.
+
+Marrón Cálido (#2E140B): Aplicado como fondo en las tarjetas de datos y secciones secundarias para darles volumen y que no se pierdan en la oscuridad.
+
+2. Colores de Énfasis y Acción (Atención)
+Rojo Carmesí Encendido (#D90416): El color del botón activo "Panel", que guía al usuario visualmente. También se usa en el botón "Cerrar sesión" y en los pequeños contenedores de iconos dentro de las tarjetas.
+
+Amarillo Oro (#FDB813): Usado para el avatar del "Administrador", la gran "P" del banner y el botón "Bs", dándoles máxima jerarquía.
+
+Degradado "Brasas" (Rojo a Naranja-Fuego / #D90416 a #A33600 a #290C03): El degradado dinámico aplicado en el banner central "Todo listo para atender", que simula el calor de la marca.
+
+3. Colores de Tipografía y Contraste (Legibilidad)
+Amarillo Trigo (#FFD26A): Utilizado para los títulos más importantes como "Hola, Administrador", "RESUMEN DEL DÍA" y las cifras grandes de las tarjetas. Garantiza una lectura cómoda sin encandilar.
+
+Crema Suave / Arena (#E2C7B2): Aplicado a los textos secundarios y descripciones (como "Este es el estado actual...", "Disponibles en el sistema", etc.) para mantener la jerarquía de lectura.
+
+Blanco Roto (#FFFFFF): Usado en el texto del botón activo y en "Todo listo para atender." para el mayor contraste posible.
+

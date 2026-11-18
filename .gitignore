@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS
+.vscode/
+.idea/
+.fleet/
+Thumbs.db
+Desktop.ini
+*.log
